@@ -46,15 +46,20 @@ The product is designed to achieve:
 - 📈 Increase conversion rate by **20%**
 - 🚀 Improve sales productivity by **30%**
 
+
 ## 📂 Project Structure
+
+```bash
 drivecrm-lead-management/
 ├── DriveCRM_Product_Assignment.pdf
 ├── README.md
 └── assets/
-├── dashboard.png
-├── lead-listing.png
-├── lead-details.png
-└── lead-management.png
+    ├── dashboard.png
+    ├── lead-listing.png
+    ├── lead-details.png
+    └── lead-management.png
+```
+
 
 ## 🎨 Figma Prototype
 
