@@ -1,62 +1,112 @@
-🚗 DriveCRM – Smart Lead Management System
-📌 Problem Statement
+# 🚗 DriveCRM – Smart Lead Management System
 
-HSR Motors manages leads manually using spreadsheets, leading to poor collaboration, lack of visibility, and inefficient tracking.
+A centralized desktop-based CRM solution designed for HSR Motors to efficiently capture, manage, and convert customer leads.
 
-🎯 Objective
+---
 
-Design a centralized desktop-based lead management system for:
+## 📌 Problem Statement
 
-Sales Team
+HSR Motors currently manages leads manually using spreadsheets. This results in:
 
-Business Manager
+- Poor collaboration between teams  
+- Lack of real-time visibility  
+- Inefficient follow-up tracking  
+- No structured performance insights  
+- Higher chances of missed opportunities  
 
-🖥 Screens Designed
+---
 
-Lead Listing
+## 🎯 Objective
 
-Lead Details
+Design a centralized Lead Management System tailored for:
 
-Lead Management
+- 👨‍💼 Sales Team  
+- 📊 Business Manager  
 
-Dashboard
+The system aims to streamline lead tracking, improve conversion rates, and provide actionable performance insights.
 
-🧠 Key Product Decisions
+---
 
-Priority-based lead tagging
+## 🖥 Screens Designed
 
-Follow-up reminders
+The following UI screens were designed as part of the solution:
 
-Performance tracking
+- 📋 **Lead Listing**
+- 👤 **Lead Details**
+- 🛠 **Lead Management**
+- 📊 **Dashboard**
 
-Conversion funnel visualization
+---
 
-📊 Success Metrics
+## 🧠 Key Product Decisions
 
-Reduce response time by 40%
+- 🏷 Priority-based lead tagging  
+- ⏰ Automated follow-up reminders  
+- 📈 Sales performance tracking  
+- 🔄 Conversion funnel visualization  
+- 📊 Lead source performance monitoring  
 
-Increase conversion rate by 20%
+---
 
-Improve productivity by 30%
+## 📊 Success Metrics
 
-🔮 Future Enhancements
+The product is designed to achieve:
 
-ML-based lead scoring
+- ⏱ Reduce response time by **40%**
+- 📈 Increase conversion rate by **20%**
+- 🚀 Improve sales productivity by **30%**
 
-Auto-assignment logic
+---
 
-WhatsApp integration
+## 📂 Project Structure
+drivecrm-lead-management/
+│
+├── DriveCRM_Product_Assignment.pdf
+├── README.md
+└── assets/
+    ├── dashboard.png
+    ├── lead-listing.png
+    ├── lead-details.png
+    └── lead-management.png
 
-🎨 Figma Prototype
+---
 
-👉 [Insert your Figma link]
+## 🎨 Figma Prototype
 
-📄 Assignment PDF
+View the interactive design here:
 
-See: DriveCRM_Product_Assignment.pdf
+👉 https://www.figma.com/design/YZePW3Nkz71nt5Tr0uGNER/DriveCRM-%E2%80%93-Smart-Lead-Management-System--Copy-?node-id=0-1&t=INnwrl9OR07juL9Z-1
 
-🎨 Figma Prototype:
-https://www.figma.com/design/YZePW3Nkz71nt5Tr0uGNER/DriveCRM-%E2%80%93-Smart-Lead-Management-System--Copy-?node-id=0-1&t=INnwrl9OR07juL9Z-1
+---
 
-💻 GitHub Repository:
-https://github.com/jyothir-369/drivecrm-lead-management
+## 📄 Assignment PDF
+
+Full product documentation available here:
+
+👉 [DriveCRM_Product_Assignment.pdf](DriveCRM_Product_Assignment.pdf)
+
+---
+
+## 💻 GitHub Repository
+
+Repository Link:
+
+👉 https://github.com/jyothir-369/drivecrm-lead-management
+
+---
+
+## 🔮 Future Enhancements
+
+- 🤖 ML-based lead scoring  
+- 🔁 Intelligent auto-assignment logic  
+- 💬 WhatsApp integration  
+- 🔐 Role-based access control  
+- 📱 Mobile version  
+
+---
+
+## 👨‍💼 Author
+
+**Jyothir Raghavalu Bhogi**  
+CSE (AI & ML) | Product & Data Enthusiast  
+Focused on building scalable, data-driven SaaS systems.
