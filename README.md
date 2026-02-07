@@ -38,13 +38,13 @@ The following UI screens were designed as part of the solution:
 - 🔄 Conversion funnel visualization
 - 📊 Lead source performance monitoring
 
-## 📊 Success Metrics
+📊 Success Metrics (Target Outcomes)
 
-The product is designed to achieve:
+• Reduce average lead response time
+• Improve lead-to-sale conversion rate
+• Increase sales team productivity
+• Improve visibility of lead source ROI
 
-- ⏱ Reduce response time by **40%**
-- 📈 Increase conversion rate by **20%**
-- 🚀 Improve sales productivity by **30%**
 
 
 ## 📂 Project Structure
